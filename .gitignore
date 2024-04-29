@@ -35,5 +35,5 @@
 *.txt
 
 # Pickles
-* .pkl
+*.pkl
 
