@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Fixture Files
+*.txt
+
+# Pickles
+* .pkl
+
